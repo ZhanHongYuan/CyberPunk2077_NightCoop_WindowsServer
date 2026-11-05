@@ -33,7 +33,6 @@
 | NightCoop 官方网站 | https://nightcoop.net/ |
 | NightCoop 安装与使用指南 | https://nightcoop.net/docs.html#install |
 | NightCoop Hub 上游源码 | https://github.com/Twenfys/nightcoop-hub |
-| NightCoop Discord 社区 | https://discord.gg/ |
 
 如果你是第一次接触 NightCoop，建议先阅读官方安装指南，了解游戏客户端的安装、联机和版本兼容要求。
 
