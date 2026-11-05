@@ -33,7 +33,6 @@ This project is intended for learning, research, and private co-op use with frie
 | NightCoop Official Website | https://nightcoop.net/ |
 | NightCoop Installation and Usage Guide | https://nightcoop.net/docs.html#install |
 | NightCoop Hub Upstream Repository | https://github.com/Twenfys/nightcoop-hub |
-| NightCoop Discord Community | https://discord.gg/ |
 
 If you are new to NightCoop, please read the official installation guide first to understand client installation, multiplayer setup, and version compatibility.
 
@@ -271,7 +270,7 @@ These are examples only. Replace them with your own server address and fingerpri
 In the game, open:
 
 ```text
-Co-op → Server → Add an own server
+Co-op → Server: ... → Add an own server
 ```
 
 Enter or paste the address and fingerprint provided by the Hub administrator, then save.
