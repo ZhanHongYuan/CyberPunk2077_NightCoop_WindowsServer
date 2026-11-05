@@ -1,0 +1,19 @@
+
+# Private keys - NEVER upload
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local server data
+data/
+logs/
+
+# Local configuration
+config.local.json
+.env
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
